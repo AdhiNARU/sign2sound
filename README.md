@@ -37,6 +37,8 @@ Sign2Sound is an assistive technology project that converts sign language gestur
 1. Clone the repository
 2. Install dependencies
 3. Run the application
+
+   
 ## Project Structure
 
 ## Performance
