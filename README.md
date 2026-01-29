@@ -68,6 +68,3 @@ These were addressed using data augmentation, model compression, and pipeline op
 ## License
 This project is developed for academic and research purposes.
 
-## Installation
-
-1. Clone the repository
